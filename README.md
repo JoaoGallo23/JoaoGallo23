@@ -1,6 +1,6 @@
 - Meu nome é João Gallo
-- Eu estou interessado em aprender a programar ESP32 e ATMEGA 328
-- No momento estou estudando programação orientada a objetos
+- Tenho interesse em aprender a  programar ESP32
+- No momento estou estudando programação orientada a objeto
 - meu e-mail é jrg750@gmail.com
 
 <!---
